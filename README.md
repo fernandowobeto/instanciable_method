@@ -1,0 +1,2 @@
+instanciable_method
+===================
