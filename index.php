@@ -1,5 +1,6 @@
 <?php
 
+include('InstanciableInterface.php');
 include('Instanciable.php');
 include('User.php');
 

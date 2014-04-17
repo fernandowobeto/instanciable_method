@@ -1,6 +1,6 @@
 <?php
 
-class User extends Instanciable{
+class User extends Instanciable implements InstanciableInterface{
 	private $uniqueid;
 	
 	public function __construct($prefix = ''){
